@@ -1,0 +1,4 @@
+- Simple yet fast ble server
+- Works with all BLE compatible boards
+- supports int, char, byte and bytearray ( float is fucked since BLE doesnt directly support float values)
+- connect using the NRF app ! ( both IOS & Android )
